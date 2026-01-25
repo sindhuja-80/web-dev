@@ -14,10 +14,9 @@ DOM manipulation, and front-end skills.
 <p align="center">
  <h3> Day 1 – To-Do List Application</h3>
 
-<strong>**Project Overview:**  </strong>
-The To-Do List application is a fundamental front-end project designed to manage daily tasks efficiently. It enables users to create, track, and remove tasks through an interactive interface. The project focuses on dynamically updating the user interface based on user actions, without reloading the page.
-
-This application demonstrates the practical use of JavaScript for handling user events such as clicks, managing application state through DOM manipulation, and updating visual task status using CSS classes. It also highlights the importance of writing clean, reusable logic for dynamically created elements, making the project scalable and efficient.
+**Project Overview:** 
+<br>The <strong>To-Do List application</strong> is a fundamental <strong>front-end project</strong> designed to manage <strong>daily tasks efficiently</strong>. It enables users to <strong>create</strong>, <strong>track</strong>, and <strong>remove tasks</strong> through an <strong>interactive interface</strong>. The project focuses on <strong>dynamically updating the user interface</strong> based on <strong>user actions</strong>, without <strong>reloading the page</strong>.<br>
+This application demonstrates the <strong>practical use of JavaScript</strong> for handling <strong>user events</strong> such as clicks, managing <strong>application state</strong> through <strong>DOM manipulation</strong>, and updating <strong>visual task status</strong> using <strong>CSS classes</strong>. It also highlights the importance of writing <strong>clean</strong> and <strong>reusable logic</strong> for <strong>dynamically created elements</strong>, making the project <strong>scalable</strong> and <strong>efficient</strong>.
 
 **Technologies Used:**  
 HTML, CSS, JavaScript
@@ -27,17 +26,18 @@ HTML, CSS, JavaScript
 
 **Image:** 
 <br>
-<img width="50%" height="50%" alt="Screenshot (341)" src="https://github.com/user-attachments/assets/3a4f57ab-8281-4084-858d-3045c461d783" />
+<img width="1334" height="578" alt="Screenshot 2026-01-25 104759" src="https://github.com/user-attachments/assets/b1ba8174-3ae7-41e2-9b99-c7e8c5050223" />
+
 
 </p>
+
 <br>
 <p align="center">
  <h3> Day 2- Digital Clock</h3>
 
 <strong>**Project Overview:**  </strong>
-This Digital Clock is a real-time web application built using HTML, CSS, and JavaScript. It displays the current time in a 12-hour format with AM/PM, along with the current date and day. The clock updates automatically without refreshing the page, showcasing dynamic DOM manipulation and time-based functionality.
-
-The project also features an automatic day and night theme that changes based on the user’s local time, improving visual clarity and user experience. This project helped strengthen core JavaScript concepts such as the Date object, conditional logic, and real-time updates using setInterval.
+<br>This <strong>Digital Clock</strong> is a <strong>real-time web application</strong> built using <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>. It displays the <strong>current time</strong> in a <strong>12-hour format</strong> with <strong>AM/PM</strong>, along with the <strong>current date</strong> and <strong>day</strong>. The clock updates <strong>automatically</strong> without <strong>refreshing the page</strong>, showcasing <strong>dynamic DOM manipulation</strong> and <strong>time-based functionality</strong>.
+<br>The project also features an <strong>automatic day and night theme</strong> that changes based on the <strong>user’s local time</strong>, improving <strong>visual clarity</strong> and <strong>user experience</strong>. This project helped strengthen core <strong>JavaScript concepts</strong> such as the <strong>Date object</strong>, <strong>conditional logic</strong>, and <strong>real-time updates</strong> using <strong>setInterval</strong>.
 
 **Technologies Used:**  
 HTML, CSS, JavaScript
@@ -45,8 +45,27 @@ HTML, CSS, JavaScript
 **Live Demo:**  
 [View Live Project](https://digital-clock-80.netlify.app/)
 
-**Image:**  
-<img width="50%" height="50%" alt="Screenshot (345)" src="https://github.com/user-attachments/assets/5d3a479c-975e-418c-8f2d-5369c195c41a" />
+**Image:**  <br>
+<img width="1308" height="572" alt="Screenshot 2026-01-25 105711" src="https://github.com/user-attachments/assets/94583e43-f62d-444e-8559-ec11b6bf428d" />
+
+</p>
+<br>
+<p align="center">
+ <h3> Day 3 - Random Quote Generator</h3>
+
+<strong>**Project Overview:**  </strong>
+<br>The <strong>Random Quote Generator</strong> is a front-end web application designed to display inspirational quotes dynamically. It allows users to generate random quotes, view the <strong>author name</strong>, copy quotes to the clipboard, share them on Twitter, and switch between <strong>light and dark themes</strong> — all without reloading the page. 
+<br>This project demonstrates the practical use of <strong>JavaScript</strong> for handling user interactions such as button clicks and dynamically updating content through <strong>DOM manipulation</strong>. It also showcases the use of browser features like the <strong>Clipboard API</strong> and external sharing via Twitter, while maintaining clean, reusable, and scalable logic.
+
+**Technologies Used:**  
+HTML, CSS, JavaScript
+
+**Live Demo:**  
+[View Live Project](https://random-quote-generator-80.netlify.app/)
+
+**Image:**  <br>
+<img width="1272" height="566" alt="Screenshot 2026-01-25 105809" src="https://github.com/user-attachments/assets/897728f1-dce2-4c50-86ac-4b5946931c2b" />
+
 
 </p>
 
