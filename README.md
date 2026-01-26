@@ -70,6 +70,25 @@ HTML, CSS, JavaScript
 </p>
 
 <br>
+<p align="center">
+<h3> Day 4 - Counter App</h3>
+
+<strong>**Project Overview:**</strong>  
+<br>The <strong>Counter App</strong> is a simple and interactive front-end web application that allows users to <strong>increase</strong>, <strong>decrease</strong>, and <strong>reset</strong> a numerical value in real time. The application updates instantly without page reloads, providing a smooth and responsive user experience.
+<br>This project demonstrates the fundamentals of <strong>JavaScript</strong>, including handling <strong>button click events</strong>, managing application state using variables, and dynamically updating the UI through <strong>DOM manipulation</strong>. It also highlights clean UI structuring with HTML and basic styling using CSS.
+
+<strong>**Technologies Used:**</strong>  
+HTML, CSS, JavaScript
+
+<strong>**Live Demo:**</strong>  
+[View Live Project](https://counter-app-80.netlify.app/)
+
+<strong>**Image:**</strong>  
+<br>
+<img width="1059" height="535" alt="Screenshot 2026-01-26 150515" src="https://github.com/user-attachments/assets/4663a0cd-24fb-44e5-a435-80c22bad2db8" />
+
+</p>
+
 
 <h2>🎯 Goal</h2>
 <p>
