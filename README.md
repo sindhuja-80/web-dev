@@ -137,6 +137,23 @@ HTML, CSS, JavaScript
 <img width="1188" height="540" alt="Screenshot 2026-01-29 100801" src="https://github.com/user-attachments/assets/b010db96-1eff-4c5c-8614-d8c43a341bd2" />
 
 </p>
+
+<p align="center"> <h3> Day 8 – Random Password Generator</h3>
+
+**Project Overview:**
+<br>The <strong>Random Password Generator application</strong> is a simple yet essential <strong>front-end web project</strong> designed to help users generate <strong>secure and random passwords</strong> instantly. The application allows users to <strong>specify the password length</strong> and generates a strong password containing a combination of <strong>uppercase letters</strong>, <strong>lowercase letters</strong>, <strong>numbers</strong>, and <strong>special characters</strong> — all with a single button click, without reloading the page.<br>
+This project demonstrates effective use of <strong>JavaScript DOM manipulation</strong> and <strong>event handling</strong> to dynamically generate and display passwords in real time. It highlights the implementation of <strong>randomization logic</strong> using JavaScript’s Math functions, <strong>string manipulation</strong> for character selection, and <strong>input validation</strong> to ensure appropriate password length values. Additionally, the project includes a <strong>copy-to-clipboard feature</strong>, enhancing usability by allowing users to easily copy generated passwords. The application focuses on a <strong>clean, user-friendly interface</strong> while reinforcing core JavaScript concepts such as functions, loops, DOM selection, and dynamic content rendering.
+
+**Technologies Used:**
+HTML, CSS, JavaScript
+
+**Live Demo:**
+[View Live Project](https://random-password-80.netlify.app/)
+
+**<strong>Image:</strong><br>**
+<img width="1194" height="547" alt="Screenshot 2026-01-30 100752" src="https://github.com/user-attachments/assets/d48ef997-9790-4c6b-9f0e-677efbdf024b" />
+
+</p>
 <h2>🎯 Goal</h2>
 <p>
 To stay consistent, learn by building, and strengthen core web development fundamentals.
