@@ -154,6 +154,21 @@ HTML, CSS, JavaScript
 <img width="1194" height="547" alt="Screenshot 2026-01-30 100752" src="https://github.com/user-attachments/assets/d48ef997-9790-4c6b-9f0e-677efbdf024b" />
 
 </p>
+<p align="center"> <h3>Day 9 - Age Calculator</h3>
+
+**Project Overview:**  
+<br>The <strong>Age Calculator application</strong> is a simple yet practical <strong>front-end web project</strong> designed to help users calculate their <strong>exact age</strong> based on the entered <strong>date of birth</strong>. The application computes the age in terms of <strong>years, months, and days</strong>, providing users with a clear and accurate breakdown instantly on button click — all without reloading the page.<br>
+This project highlights <strong>dynamic DOM manipulation</strong> using <strong>JavaScript date and time handling</strong>, enabling real-time age calculations and automatic daily updates. It demonstrates the implementation of <strong>input validation</strong> to prevent future date selection, <strong>date-based mathematical calculations</strong> to determine age components, and <strong>conditional logic</strong> to handle edge cases such as month and day borrowing. Additionally, the application displays a <strong>next birthday countdown</strong>, reinforcing core JavaScript concepts including Date objects, event handling, DOM selection, time difference calculations, and dynamic content rendering within a <strong>clean, user-friendly interface</strong>.
+**Technologies Used:**
+HTML, CSS, JavaScript
+
+**Live Demo:**
+[View Live Project](https://age-calculator-80.netlify.app/)
+
+**<strong>Image:</strong><br>**
+<img width="1021" height="515" alt="Screenshot 2026-01-31 165809" src="https://github.com/user-attachments/assets/c496bfd2-ba03-4ed1-8d6e-cb551554b39d" />
+
+
 <h2>🎯 Goal</h2>
 <p>
 To stay consistent, learn by building, and strengthen core web development fundamentals.
