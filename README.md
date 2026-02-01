@@ -167,7 +167,21 @@ HTML, CSS, JavaScript
 
 **<strong>Image:</strong><br>**
 <img width="1021" height="515" alt="Screenshot 2026-01-31 165809" src="https://github.com/user-attachments/assets/c496bfd2-ba03-4ed1-8d6e-cb551554b39d" />
+</p>
+<p align="center"> <h3>Day 10 – Guess the Number Game</h3>
 
+**Project Overview:**
+<br>The <strong>Guess the Number Game</strong> is a beginner-friendly <strong>front-end web project</strong> that challenges users to guess a <strong>randomly generated number</strong> within a predefined range. The application provides <strong>instant feedback</strong> for each guess by indicating whether the entered number is <strong>too high, too low, or correct</strong>, allowing users to refine their guesses accordingly — all without reloading the page.<br>
+This project demonstrates core <strong>JavaScript fundamentals</strong> such as <strong>random number generation</strong>, <strong>event handling</strong>, and <strong>conditional logic</strong>. It also showcases <strong>dynamic DOM manipulation</strong> to update messages and track the <strong>number of attempts</strong> in real time. A <strong>restart functionality</strong> is included to reset the game state and generate a new number, ensuring continuous user interaction within a <strong>clean and intuitive user interface</strong>.
+
+**Technologies Used:**
+HTML, CSS, JavaScript
+
+**Live Demo:**
+[View Live Project](https://guess-the-number-80.netlify.app/)
+
+**<strong>Image:</strong><br>**
+<img width="956" height="452" alt="Screenshot 2026-02-01 195340" src="https://github.com/user-attachments/assets/984074b0-9cc7-4fba-8efd-b7f21fd829d4" />
 
 <h2>🎯 Goal</h2>
 <p>
