@@ -182,6 +182,36 @@ HTML, CSS, JavaScript
 
 **<strong>Image:</strong><br>**
 <img width="956" height="452" alt="Screenshot 2026-02-01 195340" src="https://github.com/user-attachments/assets/984074b0-9cc7-4fba-8efd-b7f21fd829d4" />
+</p>
+<p align="center">
+  <h3>Day 11 – Rock Paper Scissors Game</h3>
+
+  **<strong>Project Overview:</strong>**
+  <br>
+  The <strong>Rock Paper Scissors Game</strong> is an interactive and beginner-friendly
+  <strong>front-end web project</strong> that allows users to play the classic game against
+  the <strong>computer</strong>. The computer generates a <strong>random choice</strong> for
+  each round, and the application instantly evaluates the outcome based on standard
+  <strong>game rules</strong> — <strong>win, lose, or draw</strong> — without reloading the page.  
+  This project highlights core <strong>JavaScript concepts</strong> such as
+  <strong>event handling</strong>, <strong>random number generation</strong>,
+  <strong>conditional logic</strong>, and <strong>dynamic DOM manipulation</strong>.
+  It also includes a <strong>real-time score tracking system</strong> for both the user
+  and the computer, along with a <strong>reset functionality</strong> to restart the game.
+  The user interface is designed to be <strong>clean, minimal, and intuitive</strong>,
+  providing clear <strong>visual feedback</strong> through color-coded results to enhance
+  the overall user experience.  
+
+ **<strong>Technologies Used:</strong>**
+  HTML, CSS, JavaScript  
+
+ **<strong>Live Demo:</strong>**
+ [view live demo](https://rock-paper-scissors-game-80.netlify.app/)
+
+**<strong>Image:</strong><br>**
+<img width="811" height="500" alt="Screenshot 2026-02-02 120343" src="https://github.com/user-attachments/assets/14b72a91-76c9-47ea-a8fc-9f6701151af1" />
+
+</p>
 
 <h2>🎯 Goal</h2>
 <p>
