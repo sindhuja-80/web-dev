@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Countdown Timer</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Countdown Timer</h1>
+        <input type="datetime-local" id="inputDateTime">
+        <div class="timer">
+            <div class="box" id="days"> 00 <span>Days</span>
+            </div>
+             <div class="box" id="hours">00 <span>Months</span>
+            </div>
+             <div class="box" id="minutes">00 <span>Minutes</span>
+            </div>
+             <div class="box" id="seconds">00 <span>Seconds</span>
+            </div>
+        </div>
+        <div class="buttons">
+            <button id="startBtn" onclick="startTimer()">Start</button>
+            <button id="pauseBtn" onclick="pauseTimer()">Pause/Resume</button>
+            <button id="resetBtn" onclick="resetTimer()">Reset</button>
+        </div>
+    </div>
+    <script src="main.js"></script>
+ </body>
+ </html>
