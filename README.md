@@ -270,6 +270,25 @@ The application uses **LocalStorage** to persist notes, ensuring that data remai
 <img width="748" height="441" alt="Screenshot 2026-02-04 180404" src="https://github.com/user-attachments/assets/eb41397d-e3dc-4714-91b8-82b0bddbc6d6" />
 
 </p>
+<p align="center">
+  <h3>Day 14 - Calculator App</h3>
+ 
+  <strong><strong>Project Overview:</strong></strong>
+The Calculator Web App is a simple front-end project developed using HTML, CSS, and JavaScript. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division through a clean and easy-to-use interface.
+
+This project focuses on practicing JavaScript logic, DOM manipulation, and basic UI design. It is lightweight, fast, and works smoothly on both desktop and mobile browsers, making it suitable for learning purposes and portfolio use.
+  <strong><strong>Technologies Used:</strong></strong>
+  <br>
+  HTML, CSS, JavaScript  
+ 
+  <strong><strong>Live Demo:</strong></strong>
+  <br>
+  <a href="https://notes-app-80.netlify.app/">View Live Demo</a>
+  
+  <strong><strong>Image:</strong></strong><br>
+<img width="748" height="441" alt="Screenshot 2026-02-04 180404" src="https://github.com/user-attachments/assets/eb41397d-e3dc-4714-91b8-82b0bddbc6d6" />
+
+</p>
 <h2>🎯 Goal</h2>
 <p>
 To stay consistent, learn by building, and strengthen core web development fundamentals.
