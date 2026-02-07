@@ -308,6 +308,24 @@ This project focuses on validating essential form fields such as **name, email, 
   <img width="712" height="499" alt="Screenshot 2026-02-06 220326" src="https://github.com/user-attachments/assets/ea915368-9df0-46d4-8e0b-4e19476decfa" />
 
 </p>
+<p align="center">
+  <h3>Day 16 - Weather API</h3>
+  <strong>Project Overview:</strong>
+
+The **Weather App** is a simple and interactive front-end web application built using **HTML, CSS, and JavaScript**. It allows users to search for any city and view real-time weather information such as **temperature, weather condition, humidity, and wind speed**. The application fetches live weather data from the **OpenWeatherMap API** and dynamically updates the user interface without reloading the page.
+
+This project demonstrates practical usage of **JavaScript DOM manipulation**, **event handling**, and **asynchronous programming (async/await)** to work with external APIs. Designed with a clean, full-page layout, the app focuses on clarity and usability, making it an ideal beginner-friendly project for learning API integration and real-world JavaScript workflows.   
+ <strong><strong>Technologies Used:</strong></strong>
+  <br>
+  HTML, CSS, JavaScript  
+ 
+  <strong><strong>Live Demo:</strong></strong>
+  <a href="https://weather-api-80.netlify.app/">View Live Demo</a>
+  
+  <strong><strong>Image:</strong></strong>   
+<img width="794" height="414" alt="Screenshot 2026-02-07 163649" src="https://github.com/user-attachments/assets/dda14b30-196f-4934-b6c6-d4c88293d740" />
+
+</p>
 <h2>🎯 Goal</h2>
 <p>
 To stay consistent, learn by building, and strengthen core web development fundamentals.
