@@ -350,6 +350,7 @@ The <strong>Movie Search Application</strong> is a simple web application built 
 
 The application fetches <strong>real-time movie data from an external API</strong> and dynamically displays search results based on user input. This project helps in understanding <strong>DOM manipulation</strong>, <strong>API integration using fetch</strong>, <strong>asynchronous JavaScript with async/await</strong>, and <strong>basic error handling and input validation</strong>. It is <strong>beginner-friendly</strong> and suitable for a <strong>front-end developer portfolio</strong>.
 <br>
+ <strong><strong>Technologies Used:</strong></strong>  
   HTML, CSS, JavaScript  
  
   <strong><strong>Live Demo:</strong></strong>
@@ -357,6 +358,23 @@ The application fetches <strong>real-time movie data from an external API</stron
   
   <strong><strong>Image:</strong></strong>   
   <img width="588" height="267" alt="Screenshot 2026-02-09 182515" src="https://github.com/user-attachments/assets/e3e896b2-c447-4c1a-9d89-0e2de6532b29" />
+
+</p>
+<p align="center">
+  <h3>Day 19 - Expense Tracker</h3>
+<strong>Project Overview:</strong> <br>
+The <strong>Expense Tracker Application</strong> is a simple web application built using <strong>HTML, CSS, and JavaScript</strong> that allows users to add, view, and manage their <strong>income and expenses</strong> while automatically calculating the 
+<strong>total balance</strong>.
+
+The application dynamically updates the <strong>income, expense, and balance values</strong> based on user input and displays all transactions in a clean and organized list. This project helps in understanding <strong>DOM manipulation</strong>, <strong>event handling</strong>, <strong>array methods</strong>, and <strong>basic JavaScript logic</strong>. It is <strong>beginner-friendly</strong> and suitable for a <strong>front-end developer portfolio</strong>.<br>  
+ <strong><strong>Technologies Used:</strong></strong>
+  HTML, CSS, JavaScript  
+ 
+  <strong><strong>Live Demo:</strong></strong>
+  <a href="https://expense-tracker-80.netlify.app/">View Live Demo</a>
+  
+  <strong><strong>Image:</strong></strong>   
+<img width="899" height="530" alt="Screenshot 2026-02-10 223427" src="https://github.com/user-attachments/assets/dba9d2f1-3505-4469-846d-a575ac09cc56" />
 
 </p>
 <h2>🎯 Goal</h2>
