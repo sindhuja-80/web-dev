@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Authentication</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="wrapper">
+  <div class="card">
+
+    <div class="toggle-buttons">
+      <button id="loginBtn" class="active">Login</button>
+      <button id="signupBtn">Signup</button>
+      <div class="slider"></div>
+    </div>
+
+    <!-- Login -->
+    <form id="loginForm" class="form">
+      <h2>Welcome Back 👋</h2>
+
+      <div class="input-group">
+        <input type="email" id="loginEmail" placeholder="Email">
+        <small id="loginEmailError"></small>
+      </div>
+
+      <div class="input-group">
+        <input type="password" id="loginPassword" placeholder="Password">
+        <small id="loginPasswordError"></small>
+      </div>
+
+      <button type="submit" class="submit-btn">Login</button>
+    </form>
+
+    <!-- Signup -->
+    <form id="signupForm" class="form hidden">
+      <h2>Create Account ✨</h2>
+
+      <div class="input-group">
+        <input type="text" id="signupName" placeholder="Full Name">
+        <small id="nameError"></small>
+      </div>
+
+      <div class="input-group">
+        <input type="email" id="signupEmail" placeholder="Email">
+        <small id="emailError"></small>
+      </div>
+
+      <div class="input-group">
+        <input type="password" id="signupPassword" placeholder="Password">
+        <small id="passwordError"></small>
+      </div>
+
+      <div class="input-group">
+        <input type="password" id="confirmPassword" placeholder="Confirm Password">
+        <small id="confirmPasswordError"></small>
+      </div>
+
+      <button type="submit" class="submit-btn">Signup</button>
+    </form>
+
+  </div>
+</div>
+
+<script src="main.js"></script>
+</body>
+</html>
