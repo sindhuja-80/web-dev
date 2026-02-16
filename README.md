@@ -1,6 +1,4 @@
 <h1 align="center">🚀 30 Days Web Development Challenge</h1>
-
-<p align="center">
 Building <strong>daily mini projects</strong> using
 <strong>HTML, CSS, and JavaScript</strong> to improve logic,
 DOM manipulation, and front-end skills.
@@ -9,6 +7,24 @@ DOM manipulation, and front-end skills.
 <br>
 
 <h2> 📅 Daily Projects</h2>
+<p align="center">
+  <h3>Day 23 - Product Search and Filter</h3>
+<strong>Project Overview:</strong> <br> <br>
+
+The <strong>Product Filter & Search</strong> application is a dynamic web project built using <strong>HTML, CSS, and JavaScript</strong> that allows users to search and filter products in real time. The application displays product cards with images, names, categories, and prices, and updates instantly as users type in the search bar or select a category from the dropdown menu without refreshing the page.
+
+This project demonstrates important frontend concepts such as <strong>DOM manipulation</strong>, <strong>JavaScript array methods like filter() and forEach()</strong>, <strong>event handling</strong>, and <strong>conditional logic</strong>. It helps strengthen core JavaScript fundamentals while building an interactive and responsive user interface.<br>
+ <strong><strong>Technologies Used:</strong></strong>  
+  HTML, CSS, JavaScript  
+ 
+  <strong><strong>Live Demo:</strong></strong>  
+  <a href="https://product-search-filter-80.netlify.app/">View Live Demo</a>
+  
+  <strong><strong>Image:</strong></strong>   
+  <img width="1177" height="594" alt="Screenshot 2026-02-16 181821" src="https://github.com/user-attachments/assets/881728a7-1658-4a60-85f2-97c6cae3ff23" />
+
+</p>
+
 <p align="center">
   <h3>Day 22 - Login and Signup UI</h3>
 <strong>Project Overview:</strong> <br> <br>
